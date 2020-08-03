@@ -1,0 +1,3 @@
+Sunspots: https://www.ngdc.noaa.gov/stp/space-weather/solar-data/solar-indices/sunspot-numbers/group/daily-values-and-means/group-sunspot-numbers_yearly-means(yearrg).txt
+Famine: https://en.wikipedia.org/wiki/List_of_famines
+Epidemics: https://en.wikipedia.org/wiki/List_of_epidemics

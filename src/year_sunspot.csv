@@ -1,0 +1,411 @@
+﻿Year,Mean Sp,,LineChart Data,,,,,Epidemic,,,,,,,,,Epi-Scatter Data
+1610,36,,"{ x: new Date(1610, 1, 1), y: 36 },",,,,,,Year,Sunspots,Epidemic_Name_Clean,Epidemic_Year_Range,Epidemic_Location,Epidemic_Death_Toll,,,
+1611,34.1,,"{ x: new Date(1611, 1, 1), y: 34.1 },",,,,,6,1616,20.1,New England Infections Epidemic,1616–1620,"Southern New England, United States, especially the Wampanoag people",Unknown (estimated 30–90% of population),,,"{ x: new Date(1616, 1, 1), y: 20.1 },"
+1612,92.7,,"{ x: new Date(1612, 1, 1), y: 92.7 },",,,,,19,1629,18.7,Italian Plague,1629–1631,Italy,"280,000",,,"{ x: new Date(1629, 1, 1), y: 18.7 },"
+1613,109.6,,"{ x: new Date(1613, 1, 1), y: 109.6 },",,,,,22,1632,0,Augsburg Plague Epidemic,1632–1635,"Augsburg, Germany","13,712",,,"{ x: new Date(1632, 1, 1), y: 0 },"
+1614,121,,"{ x: new Date(1614, 1, 1), y: 121 },",,,,,23,1633,14.3,Massachusetts Smallpox Epidemic,1633–1634,"Massachusetts Bay Colony, Thirteen Colonies","1,000",,,"{ x: new Date(1633, 1, 1), y: 14.3 },"
+1615,80.3,,"{ x: new Date(1615, 1, 1), y: 80.3 },",,,,,24,1634,3,Wyandot People Epidemic Of Infections,1634–1640,"Wyandot people, United States and Canada","15,000–25,000",,,"{ x: new Date(1634, 1, 1), y: 3 },"
+1616,20.1,,"{ x: new Date(1616, 1, 1), y: 20.1 },",,,,,26,1636,0,London Plague Epidemic,1636–1637,"London and Westminster, England","10,400",,,"{ x: new Date(1636, 1, 1), y: 0 },"
+1617,2.3,,"{ x: new Date(1617, 1, 1), y: 2.3 },",,,,,31,1641,0,China Plague Epidemic,1641–1644,China,Unknown,,,"{ x: new Date(1641, 1, 1), y: 0 },"
+1618,1.3,,"{ x: new Date(1618, 1, 1), y: 1.3 },",,,,,37,1647,0,Great Plague Of Seville,1647–1652,Spain,"500,000",,,"{ x: new Date(1647, 1, 1), y: 0 },"
+1619,15,,"{ x: new Date(1619, 1, 1), y: 15 },",,,,,38,1648,0,Central America Yellow Fever Epidemic,1648,Central America,Unknown,,,"{ x: new Date(1648, 1, 1), y: 0 },"
+1620,15,,"{ x: new Date(1620, 1, 1), y: 15 },",,,,,46,1656,0.6,Naples Plague,1656,Italy,"1,250,000",,,"{ x: new Date(1656, 1, 1), y: 0.6 },"
+1621,15,,"{ x: new Date(1621, 1, 1), y: 15 },",,,,,53,1663,0,Amsterdam Plague Epidemic,1663–1664,"Amsterdam, Netherlands","24,148",,,"{ x: new Date(1663, 1, 1), y: 0 },"
+1622,15,,"{ x: new Date(1622, 1, 1), y: 15 },",,,,,55,1665,0,Great Plague Of London,1665–1666,England,"100,000",,,"{ x: new Date(1665, 1, 1), y: 0 },"
+1623,15,,"{ x: new Date(1623, 1, 1), y: 15 },",,,,,58,1668,0,France Plague,1668,France,"40,000",,,"{ x: new Date(1668, 1, 1), y: 0 },"
+1624,9.6,,"{ x: new Date(1624, 1, 1), y: 9.6 },",,,,,65,1675,0,Malta Plague Epidemic,1675–1676,Malta,"11,300",,,"{ x: new Date(1675, 1, 1), y: 0 },"
+1625,42.4,,"{ x: new Date(1625, 1, 1), y: 42.4 },",,,,,66,1676,1.8,Spain Plague,1676–1685,Spain,Unknown,,,"{ x: new Date(1676, 1, 1), y: 1.8 },"
+1626,26.6,,"{ x: new Date(1626, 1, 1), y: 26.6 },",,,,,67,1677,0.3,Boston Smallpox Epidemic,1677–1678,"Massachusetts Bay Colony, United States",750–1000,,,"{ x: new Date(1677, 1, 1), y: 0.3 },"
+1627,16.5,,"{ x: new Date(1627, 1, 1), y: 16.5 },",,,,,69,1679,0,Great Plague Of Vienna,1679,"Vienna, Austria","76,000",,,"{ x: new Date(1679, 1, 1), y: 0 },"
+1628,23.2,,"{ x: new Date(1628, 1, 1), y: 23.2 },",,,,,71,1681,0,Prague Plague Epidemic,1681,"Prague, Czech Kingdom","83,000",,,"{ x: new Date(1681, 1, 1), y: 0 },"
+1629,18.7,,"{ x: new Date(1629, 1, 1), y: 18.7 },",,,,,77,1687,0.1,South Africa Influenza Outbreak,1687,South Africa,Unknown,,,"{ x: new Date(1687, 1, 1), y: 0.1 },"
+1630,0,,"{ x: new Date(1630, 1, 1), y: 0 },",,,,,83,1693,0,Boston Yellow Fever Epidemic,1693,"Boston, United States","3,100+",,,"{ x: new Date(1693, 1, 1), y: 0 },"
+1631,4.4,,"{ x: new Date(1631, 1, 1), y: 4.4 },",,,,,89,1699,0,Charleston And Philadelphia Yellow Fever Epidemic,1699,"Charleston and Philadelphia, United States","520 (300 in Charleston, 220 in Philadelphia)",,,"{ x: new Date(1699, 1, 1), y: 0 },"
+1632,0,,"{ x: new Date(1632, 1, 1), y: 0 },",,,,,92,1702,26.7,New York City Yellow Fever Epidemic,1702,"New York City, United States",500,,,"{ x: new Date(1702, 1, 1), y: 26.7 },"
+1633,14.3,,"{ x: new Date(1633, 1, 1), y: 14.3 },",,,,,93,1702,26.7,St. Lawrence Valley Smallpox Epidemic,1702–1703,"New France, Canada","1,300",,,"{ x: new Date(1702, 1, 1), y: 26.7 },"
+1634,3,,"{ x: new Date(1634, 1, 1), y: 3 },",,,,,98,1707,33.3,Iceland Smallpox Epidemic,1707–1709,Iceland,"18,000+ (36% of population)",,,"{ x: new Date(1707, 1, 1), y: 33.3 },"
+1635,4.3,,"{ x: new Date(1635, 1, 1), y: 4.3 },",,,,,101,1710,5,Great Northern War Plague Outbreak,1710–1712,"Denmark, Sweden, Lithuania","164,000",,,"{ x: new Date(1710, 1, 1), y: 5 },"
+1636,0,,"{ x: new Date(1636, 1, 1), y: 0 },",,,,,104,1713,3.3,North America Measles Epidemic,1713–1715,"Thirteen Colonies and New France, Canada",Unknown,,,"{ x: new Date(1713, 1, 1), y: 3.3 },"
+1637,0,,"{ x: new Date(1637, 1, 1), y: 0 },",,,,,111,1720,46.7,Great Plague Of Marseille,1720–1722,France,"100,000+",,,"{ x: new Date(1720, 1, 1), y: 46.7 },"
+1638,68.6,,"{ x: new Date(1638, 1, 1), y: 68.6 },",,,,,112,1721,43.3,Boston Smallpox Outbreak,1721–1722,Massachusetts Bay Colony,844,,,"{ x: new Date(1721, 1, 1), y: 43.3 },"
+1639,76.8,,"{ x: new Date(1639, 1, 1), y: 76.8 },",,,,,121,1730,78.3,Cádiz Yellow Fever Epidemic,1730,"Cádiz, Spain","2,200",,,"{ x: new Date(1730, 1, 1), y: 78.3 },"
+1640,15,,"{ x: new Date(1640, 1, 1), y: 15 },",,,,,123,1732,18.3,Thirteen Colonies Influenza Epidemic,1732–1733,Thirteen Colonies,Unknown,,,"{ x: new Date(1732, 1, 1), y: 18.3 },"
+1641,0,,"{ x: new Date(1641, 1, 1), y: 0 },",,,,,124,1733,8.3,New France Smallpox Epidemic,1733,"New France, Canada",Unknown,,,"{ x: new Date(1733, 1, 1), y: 8.3 },"
+1642,47.4,,"{ x: new Date(1642, 1, 1), y: 47.4 },",,,,,126,1735,56.7,Diphtheria Epidemic,1735–1741,"New England, New York, New Jersey, United States","20,000",,,"{ x: new Date(1735, 1, 1), y: 56.7 },"
+1643,17.6,,"{ x: new Date(1643, 1, 1), y: 17.6 },",,,,,129,1738,185,Great Plague Of 1738,1738,Balkans,"50,000",,,"{ x: new Date(1738, 1, 1), y: 185 },"
+1644,11.6,,"{ x: new Date(1644, 1, 1), y: 11.6 },",,,,,130,1738,185,North Carolina Smallpox Epidemic,1738–1739,"North Carolina, United States","7,700–11,700",,,"{ x: new Date(1738, 1, 1), y: 185 },"
+1645,0,,"{ x: new Date(1645, 1, 1), y: 0 },",,,,,131,1739,168.3,Thirteen Colonies Measles Epidemic,1739–1740,Thirteen Colonies,Unknown,,,"{ x: new Date(1739, 1, 1), y: 168.3 },"
+1646,0,,"{ x: new Date(1646, 1, 1), y: 0 },",,,,,133,1741,66.7,Cartagena Yellow Fever Epidemic,1741,"Cartagena, Colombia","20,000",,,"{ x: new Date(1741, 1, 1), y: 66.7 },"
+1647,0,,"{ x: new Date(1647, 1, 1), y: 0 },",,,,,135,1743,26.7,Sicily Plague Epidemic,1743,"Messina, Sicily, Italy","40,000–50,000",,,"{ x: new Date(1743, 1, 1), y: 26.7 },"
+1648,0,,"{ x: new Date(1648, 1, 1), y: 0 },",,,,,139,1747,66.7,Thirteen Colonies Measles Outbreak,1747,Thirteen Colonies,Unknown,,,"{ x: new Date(1747, 1, 1), y: 66.7 },"
+1649,0,,"{ x: new Date(1649, 1, 1), y: 0 },",,,,,151,1759,90,North America Measles Outbreak,1759,North America,Unknown,,,"{ x: new Date(1759, 1, 1), y: 90 },"
+1650,0,,"{ x: new Date(1650, 1, 1), y: 0 },",,,,,152,1760,104.8,Charleston Smallpox Epidemic,1760,"Charleston, United States",730–940,,,"{ x: new Date(1760, 1, 1), y: 104.8 },"
+1651,0,,"{ x: new Date(1651, 1, 1), y: 0 },",,,,,153,1761,143.2,North America And West Indies Influenza Epidemic,1761,"North America, West Indies",Unknown,,,"{ x: new Date(1761, 1, 1), y: 143.2 },"
+1652,4,,"{ x: new Date(1652, 1, 1), y: 4 },",,,,,154,1762,102,Havana Yellow Fever Epidemic,1762,"Havana, Cuba","8,000",,,"{ x: new Date(1762, 1, 1), y: 102 },"
+1653,0.9,,"{ x: new Date(1653, 1, 1), y: 0.9 },",,,,,155,1763,75.2,Pittsburgh Area Smallpox Outbreak,1763,"North America, present-day Pittsburgh area",Unknown,,,"{ x: new Date(1763, 1, 1), y: 75.2 },"
+1654,0.7,,"{ x: new Date(1654, 1, 1), y: 0.7 },",,,,,162,1770,168,Russian Plague Of,1770–1772,Russia,"50,000",,,"{ x: new Date(1770, 1, 1), y: 168 },"
+1655,0.5,,"{ x: new Date(1655, 1, 1), y: 0.5 },",,,,,164,1772,110.8,North America Measles Epidemic,1772,North America,Unknown,,,"{ x: new Date(1772, 1, 1), y: 110.8 },"
+1656,0.6,,"{ x: new Date(1656, 1, 1), y: 0.6 },",,,,,165,1772,110.8,Persian Plague,1772–1773,Persia,2 million+,,,"{ x: new Date(1772, 1, 1), y: 110.8 },"
+1657,0.2,,"{ x: new Date(1657, 1, 1), y: 0.2 },",,,,,168,1775,11.7,England Influenza Outbreak,1775–1776,England,Unknown,,,"{ x: new Date(1775, 1, 1), y: 11.7 },"
+1658,0,,"{ x: new Date(1658, 1, 1), y: 0 },",,,,,169,1775,11.7,North American Smallpox Epidemic,1775–1782,"Pacific Northwest, United States","11,000+",,,"{ x: new Date(1775, 1, 1), y: 11.7 },"
+1659,0,,"{ x: new Date(1659, 1, 1), y: 0 },",,,,,172,1778,257.3,Spain Dengue Fever Outbreak,1778,Spain,Unknown,,,"{ x: new Date(1778, 1, 1), y: 257.3 },"
+1660,2,,"{ x: new Date(1660, 1, 1), y: 2 },",,,,,182,1788,218.2,Pueblo Indians Smallpox Epidemic,1788,"Pueblo Indians, Southwestern United States",Unknown,,,"{ x: new Date(1788, 1, 1), y: 218.2 },"
+1661,0.8,,"{ x: new Date(1661, 1, 1), y: 0.8 },",,,,,183,1788,218.2,United States Measles Epidemic,1788,United States,Unknown,,,"{ x: new Date(1788, 1, 1), y: 218.2 },"
+1662,0,,"{ x: new Date(1662, 1, 1), y: 0 },",,,,,184,1789,196.8,New South Wales Smallpox Epidemic,1789–1790,"New South Wales, Australia",Unknown (50–70% of native population),,,"{ x: new Date(1789, 1, 1), y: 196.8 },"
+1663,0,,"{ x: new Date(1663, 1, 1), y: 0 },",,,,,188,1793,78.2,United States Influenza And Typhus Epidemic,1793,United States,Unknown,,,"{ x: new Date(1793, 1, 1), y: 78.2 },"
+1664,0,,"{ x: new Date(1664, 1, 1), y: 0 },",,,,,189,1793,78.2,Philadelphia Yellow Fever Epidemic,1793,"Philadelphia, United States","5,000+",,,"{ x: new Date(1793, 1, 1), y: 78.2 },"
+1665,0,,"{ x: new Date(1665, 1, 1), y: 0 },",,,,,196,1800,24.2,Spain Yellow Fever Epidemic,1800–1803,Spain,"60,000+",,,"{ x: new Date(1800, 1, 1), y: 24.2 },"
+1666,0,,"{ x: new Date(1666, 1, 1), y: 0 },",,,,,197,1801,56.7,Ottoman Empire And Egypt Bubonic Plague Epidemic,1801,"Ottoman Empire, Egypt",Unknown,,,"{ x: new Date(1801, 1, 1), y: 56.7 },"
+1667,0,,"{ x: new Date(1667, 1, 1), y: 0 },",,,,,198,1802,75,Saintdomingue Yellow Fever Epidemic,1802–1803,Saint-Domingue,"29,000–55,000",,,"{ x: new Date(1802, 1, 1), y: 75 },"
+1668,0,,"{ x: new Date(1668, 1, 1), y: 0 },",,,,,208,1812,8.3,Egypt Bubonic Plague Epidemic,1812,Egypt,Unknown,,,"{ x: new Date(1812, 1, 1), y: 8.3 },"
+1669,0,,"{ x: new Date(1669, 1, 1), y: 0 },",,,,,209,1812,8.3,Russia Typhus Epidemic,1812,Russia,"300,000",,,"{ x: new Date(1812, 1, 1), y: 8.3 },"
+1670,0,,"{ x: new Date(1670, 1, 1), y: 0 },",,,,,210,1812,8.3,Ottoman Plague Epidemic,1812–1819,Ottoman Empire,"300,000+",,,"{ x: new Date(1812, 1, 1), y: 8.3 },"
+1671,0.9,,"{ x: new Date(1671, 1, 1), y: 0.9 },",,,,,211,1813,20.3,Malta Plague Epidemic,1813–1814,Malta,"4,500",,,"{ x: new Date(1813, 1, 1), y: 20.3 },"
+1672,0.4,,"{ x: new Date(1672, 1, 1), y: 0.4 },",,,,,212,1813,20.3,Caragea'S Plague,1813,Romania,"60,000",,,"{ x: new Date(1813, 1, 1), y: 20.3 },"
+1673,0,,"{ x: new Date(1673, 1, 1), y: 0 },",,,,,216,1817,68.3,Ireland Typhus Epidemic,1817–1819,Ireland,"65,000",,,"{ x: new Date(1817, 1, 1), y: 68.3 },"
+1674,0.2,,"{ x: new Date(1674, 1, 1), y: 0.2 },",,,,,217,1817,68.3,First Cholera Pandemic,1817–1824,"Asia, Europe","100,000+",,,"{ x: new Date(1817, 1, 1), y: 68.3 },"
+1675,0,,"{ x: new Date(1675, 1, 1), y: 0 },",,,,,220,1820,24.2,Savannah Yellow Fever Epidemic,1820,"Savannah, Georgia, United States",700,,,"{ x: new Date(1820, 1, 1), y: 24.2 },"
+1676,1.8,,"{ x: new Date(1676, 1, 1), y: 1.8 },",,,,,221,1821,9.2,Barcelona Yellow Fever Epidemic,1821,"Barcelona, Spain","5,000–20,000",,,"{ x: new Date(1821, 1, 1), y: 9.2 },"
+1677,0.3,,"{ x: new Date(1677, 1, 1), y: 0.3 },",,,,,226,1826,59.9,Second Cholera Pandemic,1826–1837,"Asia, Europe, North America","100,000+",,,"{ x: new Date(1826, 1, 1), y: 59.9 },"
+1678,0.2,,"{ x: new Date(1678, 1, 1), y: 0.2 },",,,,,228,1828,108.5,New South Wales Smallpox Epidemic,1828–1829,"New South Wales, Australia","19,000",,,"{ x: new Date(1828, 1, 1), y: 108.5 },"
+1679,0,,"{ x: new Date(1679, 1, 1), y: 0 },",,,,,229,1829,115.2,Groningen Epidemic,1829,Netherlands,"2,800",,,"{ x: new Date(1829, 1, 1), y: 115.2 },"
+1680,0.8,,"{ x: new Date(1680, 1, 1), y: 0.8 },",,,,,230,1829,115.2,Pacific Northwest Malaria Epidemic,1829–1833,"Pacific Northwest, United States","150,000",,,"{ x: new Date(1829, 1, 1), y: 115.2 },"
+1681,0,,"{ x: new Date(1681, 1, 1), y: 0 },",,,,,231,1829,115.2,Iran Plague Outbreak,1829–1835,Iran,Unknown,,,"{ x: new Date(1829, 1, 1), y: 115.2 },"
+1682,0,,"{ x: new Date(1682, 1, 1), y: 0 },",,,,,233,1831,80.8,Plains Indians Smallpox Epidemic,1831–1834,Plains Indians,Unknown,,,"{ x: new Date(1831, 1, 1), y: 80.8 },"
+1683,0,,"{ x: new Date(1683, 1, 1), y: 0 },",,,,,236,1834,19.5,Egypt Plague Epidemic,1834–1836,Egypt,Unknown,,,"{ x: new Date(1834, 1, 1), y: 19.5 },"
+1684,1.4,,"{ x: new Date(1684, 1, 1), y: 1.4 },",,,,,239,1837,227.3,Great Plains Smallpox Epidemic,1837–1838,"Great Plains, United States and Canada","17,000+",,,"{ x: new Date(1837, 1, 1), y: 227.3 },"
+1685,0,,"{ x: new Date(1685, 1, 1), y: 0 },",,,,,242,1840,105.5,South Africa Smallpox Epidemic,1840,South Africa,Unknown,,,"{ x: new Date(1840, 1, 1), y: 105.5 },"
+1686,0.6,,"{ x: new Date(1686, 1, 1), y: 0.6 },",,,,,243,1841,63.3,Southern United States Yellow Fever Epidemic,1841,Southern United States (especially Louisiana and Florida),"3,498",,,"{ x: new Date(1841, 1, 1), y: 63.3 },"
+1687,0.1,,"{ x: new Date(1687, 1, 1), y: 0.1 },",,,,,248,1846,102.7,Third Cholera Pandemic,1846–1860,Russia,1 million+,,,"{ x: new Date(1846, 1, 1), y: 102.7 },"
+1688,0.5,,"{ x: new Date(1688, 1, 1), y: 0.5 },",,,,,249,1847,166.3,North American Typhus Epidemic,1847–1848,Canada,"20,000+",,,"{ x: new Date(1847, 1, 1), y: 166.3 },"
+1689,0.2,,"{ x: new Date(1689, 1, 1), y: 0.2 },",,,,,250,1847,166.3,Southern United States Yellow Fever Epidemic,1847,Southern United States (especially New Orleans),"3,400",,,"{ x: new Date(1847, 1, 1), y: 166.3 },"
+1690,0,,"{ x: new Date(1690, 1, 1), y: 0 },",,,,,251,1847,166.3,Influenza Epidemic,1847–1848,Worldwide,Unknown,,,"{ x: new Date(1847, 1, 1), y: 166.3 },"
+1691,0,,"{ x: new Date(1691, 1, 1), y: 0 },",,,,,252,1848,208.3,Hawaii Epidemic Of Infections,1848–1849,Hawaiian Kingdom,"10,000",,,"{ x: new Date(1848, 1, 1), y: 208.3 },"
+1692,0,,"{ x: new Date(1692, 1, 1), y: 0 },",,,,,254,1850,126.3,North America Influenza Epidemic,1850–1851,North America,Unknown,,,"{ x: new Date(1850, 1, 1), y: 126.3 },"
+1693,0,,"{ x: new Date(1693, 1, 1), y: 0 },",,,,,257,1853,74.1,New Orleans Yellow Fever Epidemic,1853,"New Orleans, United States","7,970",,,"{ x: new Date(1853, 1, 1), y: 74.1 },"
+1694,0,,"{ x: new Date(1694, 1, 1), y: 0 },",,,,,258,1853,74.1,Ottoman Empire Plague Epidemic,1853,Ottoman Empire,Unknown,,,"{ x: new Date(1853, 1, 1), y: 74.1 },"
+1695,0.1,,"{ x: new Date(1695, 1, 1), y: 0.1 },",,,,,259,1853,74.1,Copenhagen Cholera Outbreak,1853,"Copenhagen, Denmark","4,737",,,"{ x: new Date(1853, 1, 1), y: 74.1 },"
+1696,0,,"{ x: new Date(1696, 1, 1), y: 0 },",,,,,260,1854,39,Broad Street Cholera Outbreak,1854,"London, England",616,,,"{ x: new Date(1854, 1, 1), y: 39 },"
+1697,0,,"{ x: new Date(1697, 1, 1), y: 0 },",,,,,261,1855,12.7,Norfolk Yellow Fever Epidemic,1855,"Norfolk and Portsmouth, England","3,000 (2,000 in Norfolk, 1,000 in Portsmouth)",,,"{ x: new Date(1855, 1, 1), y: 12.7 },"
+1698,0,,"{ x: new Date(1698, 1, 1), y: 0 },",,,,,262,1855,12.7,Third Plague Pandemic,1855–1960,Worldwide,12 million+ in India and China alone,,,"{ x: new Date(1855, 1, 1), y: 12.7 },"
+1699,0,,"{ x: new Date(1699, 1, 1), y: 0 },",,,,,264,1857,43.4,Lisbon Yellow Fever Epidemic,1857,"Lisbon, Portugal","6,000",,,"{ x: new Date(1857, 1, 1), y: 43.4 },"
+1700,8.3,,"{ x: new Date(1700, 1, 1), y: 8.3 },",,,,,265,1857,43.4,Victoria Smallpox Epidemic,1857,"Victoria, Australia",Unknown,,,"{ x: new Date(1857, 1, 1), y: 43.4 },"
+1701,18.3,,"{ x: new Date(1701, 1, 1), y: 18.3 },",,,,,266,1857,43.4,Europe And The Americas Influenza Epidemic,1857–1859,"Europe, North America, South America",Unknown,,,"{ x: new Date(1857, 1, 1), y: 43.4 },"
+1702,26.7,,"{ x: new Date(1702, 1, 1), y: 26.7 },",,,,,270,1861,146.6,United States Typhoid Fever Epidemic,1861–1865,United States,"80,000",,,"{ x: new Date(1861, 1, 1), y: 146.6 },"
+1703,38.3,,"{ x: new Date(1703, 1, 1), y: 38.3 },",,,,,271,1862,112.1,British Columbia Smallpox Epidemic,1862–1863,"British Columbia, Canada","32,000",,,"{ x: new Date(1862, 1, 1), y: 112.1 },"
+1704,60,,"{ x: new Date(1704, 1, 1), y: 60 },",,,,,272,1863,83.5,Fourth Cholera Pandemic,1863–1875,Middle East,"600,000",,,"{ x: new Date(1863, 1, 1), y: 83.5 },"
+1705,96.7,,"{ x: new Date(1705, 1, 1), y: 96.7 },",,,,,276,1867,13.9,Sydney Measles Epidemic,1867,"Sydney, Australia",748,,,"{ x: new Date(1867, 1, 1), y: 13.9 },"
+1706,48.3,,"{ x: new Date(1706, 1, 1), y: 48.3 },",,,,,279,1870,232,Europe Smallpox Epidemic,1870–1875,Europe,"500,000",,,"{ x: new Date(1870, 1, 1), y: 232 },"
+1707,33.3,,"{ x: new Date(1707, 1, 1), y: 33.3 },",,,,,280,1871,185.3,Buenos Aires Yellow Fever Epidemic,1871,"Buenos Aires, Argentina","13,500–26,200",,,"{ x: new Date(1871, 1, 1), y: 185.3 },"
+1708,16.7,,"{ x: new Date(1708, 1, 1), y: 16.7 },",,,,,284,1875,28.3,Fiji Measles Outbreak,1875,Fiji,"40,000",,,"{ x: new Date(1875, 1, 1), y: 28.3 },"
+1709,13.3,,"{ x: new Date(1709, 1, 1), y: 13.3 },",,,,,285,1875,28.3,Australia Scarlet Fever Epidemic,1875–1876,Australia,"8,000",,,"{ x: new Date(1875, 1, 1), y: 28.3 },"
+1710,5,,"{ x: new Date(1710, 1, 1), y: 5 },",,,,,286,1876,18.9,Ottoman Empire Plague Epidemic,1876,Ottoman Empire,"20,000",,,"{ x: new Date(1876, 1, 1), y: 18.9 },"
+1711,0,,"{ x: new Date(1711, 1, 1), y: 0 },",,,,,288,1878,5.7,New Orleans Yellow Fever Epidemic,1878,"New Orleans, United States","4,046",,,"{ x: new Date(1878, 1, 1), y: 5.7 },"
+1712,0,,"{ x: new Date(1712, 1, 1), y: 0 },",,,,,289,1878,5.7,Mississippi Valley Yellow Fever Epidemic,1878,"Mississippi Valley, United States","13,000",,,"{ x: new Date(1878, 1, 1), y: 5.7 },"
+1713,3.3,,"{ x: new Date(1713, 1, 1), y: 3.3 },",,,,,292,1881,90.5,Fifth Cholera Pandemic,1881–1896,"Asia, Africa, Europe, South America","298,600",,,"{ x: new Date(1881, 1, 1), y: 90.5 },"
+1714,18.3,,"{ x: new Date(1714, 1, 1), y: 18.3 },",,,,,296,1885,86.3,Montreal Smallpox Epidemic,1885,"Montreal, Canada","3,164",,,"{ x: new Date(1885, 1, 1), y: 86.3 },"
+1715,45,,"{ x: new Date(1715, 1, 1), y: 45 },",,,,,300,1889,10.4,Flu Pandemic,1889–1890,Worldwide,1 million,,,"{ x: new Date(1889, 1, 1), y: 10.4 },"
+1716,78.3,,"{ x: new Date(1716, 1, 1), y: 78.3 },",,,,,307,1896,69.4,Bombay Plague Epidemic,1896–1905,"Bombay, India","20,788",,,"{ x: new Date(1896, 1, 1), y: 69.4 },"
+1717,105,,"{ x: new Date(1717, 1, 1), y: 105 },",,,,,308,1896,69.4,Congo Basin African Trypanosomiasis Epidemic,1896–1906,Congo Basin,"500,000",,,"{ x: new Date(1896, 1, 1), y: 69.4 },"
+1718,100,,"{ x: new Date(1718, 1, 1), y: 100 },",,,,,311,1899,20.2,Porto Plague Outbreak,1899,"Porto, Portugal",132,,,"{ x: new Date(1899, 1, 1), y: 20.2 },"
+1719,65,,"{ x: new Date(1719, 1, 1), y: 65 },",,,,,312,1899,20.2,Sixth Cholera Pandemic,1899–1923,"Europe, Asia, Africa","800,000+",,,"{ x: new Date(1899, 1, 1), y: 20.2 },"
+1720,46.7,,"{ x: new Date(1720, 1, 1), y: 46.7 },",,,,,313,1900,15.7,San Francisco Plague Of,1900–1904,"San Francisco, United States",119,,,"{ x: new Date(1900, 1, 1), y: 15.7 },"
+1721,43.3,,"{ x: new Date(1721, 1, 1), y: 43.3 },",,,,,314,1900,15.7,Sydney Bubonic Plague Epidemic,1900,Australia,103,,,"{ x: new Date(1900, 1, 1), y: 15.7 },"
+1722,36.7,,"{ x: new Date(1722, 1, 1), y: 36.7 },",,,,,315,1900,15.7,Uganda African Trypanosomiasis Epidemic,1900–1920,Uganda,"200,000–300,000",,,"{ x: new Date(1900, 1, 1), y: 15.7 },"
+1723,18.3,,"{ x: new Date(1723, 1, 1), y: 18.3 },",,,,,316,1900,15.7,Kuru Epidemic,1900's-2009,Papua New Guinea,"2,700-3,000+",,,"{ x: new Date(1900, 1, 1), y: 15.7 },"
+1724,35,,"{ x: new Date(1724, 1, 1), y: 35 },",,,,,319,1903,40.8,India Plague Epidemic,1903,India,22,,,"{ x: new Date(1903, 1, 1), y: 40.8 },"
+1725,66.7,,"{ x: new Date(1725, 1, 1), y: 66.7 },",,,,,320,1903,40.8,Fremantle Plague Epidemic,1903,Fremantle,4,,,"{ x: new Date(1903, 1, 1), y: 40.8 },"
+1726,130,,"{ x: new Date(1726, 1, 1), y: 130 },",,,,,327,1910,30.9,Manchurian Plague,1910–1911,China,"60,000",,,"{ x: new Date(1910, 1, 1), y: 30.9 },"
+1727,203.3,,"{ x: new Date(1727, 1, 1), y: 203.3 },",,,,,328,1910,30.9,China Plague,1910–1912,China,"40,000",,,"{ x: new Date(1910, 1, 1), y: 30.9 },"
+1728,171.7,,"{ x: new Date(1728, 1, 1), y: 171.7 },",,,,,333,1915,79,Encephalitis Lethargica Pandemic,1915–1926,Worldwide,1.5 million,,,"{ x: new Date(1915, 1, 1), y: 79 },"
+1729,121.7,,"{ x: new Date(1729, 1, 1), y: 121.7 },",,,,,334,1916,95,United States Polio Epidemic,1916,United States,"7,130",,,"{ x: new Date(1916, 1, 1), y: 95 },"
+1730,78.3,,"{ x: new Date(1730, 1, 1), y: 78.3 },",,,,,336,1918,134.6,Spanish Flu,1918–1920,Worldwide,17–100 million,,,"{ x: new Date(1918, 1, 1), y: 134.6 },"
+1731,58.3,,"{ x: new Date(1731, 1, 1), y: 58.3 },",,,,,337,1918,134.6,Russia Typhus Epidemic,1918–1922,Russia,2.5 million,,,"{ x: new Date(1918, 1, 1), y: 134.6 },"
+1732,18.3,,"{ x: new Date(1732, 1, 1), y: 18.3 },",,,,,343,1924,27.9,Los Angeles Pneumonic Plague Outbreak,1924,"Los Angeles, United States",30,,,"{ x: new Date(1924, 1, 1), y: 27.9 },"
+1733,8.3,,"{ x: new Date(1733, 1, 1), y: 8.3 },",,,,,344,1924,27.9,Minnesota Smallpox Epidemic,1924–1925,"Minnesota, United States",500,,,"{ x: new Date(1924, 1, 1), y: 27.9 },"
+1734,26.7,,"{ x: new Date(1734, 1, 1), y: 26.7 },",,,,,347,1927,114.7,Montreal Typhoid Fever Epidemic,1927,"Montreal, Canada",538,,,"{ x: new Date(1927, 1, 1), y: 114.7 },"
+1735,56.7,,"{ x: new Date(1735, 1, 1), y: 56.7 },",,,,,349,1929,108.2,Psittacosis Pandemic,1929-1930,Worldwide,100+,,,"{ x: new Date(1929, 1, 1), y: 108.2 },"
+1736,116.7,,"{ x: new Date(1736, 1, 1), y: 116.7 },",,,,,357,1937,190.6,Croydon Typhoid Outbreak Of,1937,"Croydon, United Kingdom",43,,,"{ x: new Date(1937, 1, 1), y: 190.6 },"
+1737,135,,"{ x: new Date(1737, 1, 1), y: 135 },",,,,,358,1937,190.6,Australia Polio Epidemic,1937,Australia,,,,"{ x: new Date(1937, 1, 1), y: 190.6 },"
+1738,185,,"{ x: new Date(1738, 1, 1), y: 185 },",,,,,361,1940,113,Sudan Yellow Fever Epidemic,1940,Sudan,"1,627",,,"{ x: new Date(1940, 1, 1), y: 113 },"
+1739,168.3,,"{ x: new Date(1739, 1, 1), y: 168.3 },",,,,,363,1942,50.8,Egypt Malaria Epidemic,1942–1944,Egypt,Unknown,,,"{ x: new Date(1942, 1, 1), y: 50.8 },"
+1740,121.7,,"{ x: new Date(1740, 1, 1), y: 121.7 },",,,,,367,1946,154.3,China Plague Epidemic,1946,China,Unknown,,,"{ x: new Date(1946, 1, 1), y: 154.3 },"
+1741,66.7,,"{ x: new Date(1741, 1, 1), y: 66.7 },",,,,,368,1946,154.3,Egypt Relapsing Fever Epidemic,1946,Egypt,Unknown,,,"{ x: new Date(1946, 1, 1), y: 154.3 },"
+1742,33.3,,"{ x: new Date(1742, 1, 1), y: 33.3 },",,,,,369,1947,214.7,Egypt Cholera Epidemic,1947,Egypt,"10,277",,,"{ x: new Date(1947, 1, 1), y: 214.7 },"
+1743,26.7,,"{ x: new Date(1743, 1, 1), y: 26.7 },",,,,,370,1948,193,United States Polio Epidemic,1948–1952,United States,"9,000",,,"{ x: new Date(1948, 1, 1), y: 193 },"
+1744,8.3,,"{ x: new Date(1744, 1, 1), y: 8.3 },",,,,,379,1957,269.3,Influenza Pandemic ('Asian Flu'),1957–1958,Worldwide,1–4 million,,,"{ x: new Date(1957, 1, 1), y: 269.3 },"
+1745,18.3,,"{ x: new Date(1745, 1, 1), y: 18.3 },",,,,,382,1960,159,Ethiopia Yellow Fever Epidemic,1960–1962,Ethiopia,"30,000",,,"{ x: new Date(1960, 1, 1), y: 159 },"
+1746,36.7,,"{ x: new Date(1746, 1, 1), y: 36.7 },",,,,,383,1961,76.4,Seventh Cholera Pandemic,1961–1975,Worldwide,Unknown,,,"{ x: new Date(1961, 1, 1), y: 76.4 },"
+1747,66.7,,"{ x: new Date(1747, 1, 1), y: 66.7 },",,,,,390,1968,150,Hong Kong Flu,1968–1970,Worldwide,1–4 million,,,"{ x: new Date(1968, 1, 1), y: 150 },"
+1748,100,,"{ x: new Date(1748, 1, 1), y: 100 },",,,,,393,1971,94.4,Staphorst Polio Epidemic,1971,"Staphorst, Netherlands",5,,,"{ x: new Date(1971, 1, 1), y: 94.4 },"
+1749,134.8,,"{ x: new Date(1749, 1, 1), y: 134.8 },",,,,,394,1972,97.6,Yugoslav Smallpox Outbreak,1972,Yugoslavia,35,,,"{ x: new Date(1972, 1, 1), y: 97.6 },"
+1750,139,,"{ x: new Date(1750, 1, 1), y: 139 },",,,,,395,1972,97.6,London Flu,1972–1973,United States,"1,027",,,"{ x: new Date(1972, 1, 1), y: 97.6 },"
+1751,79.5,,"{ x: new Date(1751, 1, 1), y: 79.5 },",,,,,396,1973,54.1,Italy Cholera El Tor Epidemic,1973,Italy,24,,,"{ x: new Date(1973, 1, 1), y: 54.1 },"
+1752,79.7,,"{ x: new Date(1752, 1, 1), y: 79.7 },",,,,,397,1974,49.2,Smallpox Epidemic Of India,1974,India,"15,000",,,"{ x: new Date(1974, 1, 1), y: 49.2 },"
+1753,51.2,,"{ x: new Date(1753, 1, 1), y: 51.2 },",,,,,400,1977,39.3,Soviet Flu,1977-78,Worldwide,"10,000 - 30,000",,,"{ x: new Date(1977, 1, 1), y: 39.3 },"
+1754,20.3,,"{ x: new Date(1754, 1, 1), y: 20.3 },",,,,,402,1979,220.1,Sverdlovsk Anthrax Leak,1979,Russia,105,,,"{ x: new Date(1979, 1, 1), y: 220.1 },"
+1755,16,,"{ x: new Date(1755, 1, 1), y: 16 },",,,,,404,1981,198.9,Hiv/Aids Pandemic,1981–present (data as of 2018),Worldwide,32 million+ (23.6–43.8 million),,,"{ x: new Date(1981, 1, 1), y: 198.9 },"
+1756,17,,"{ x: new Date(1756, 1, 1), y: 17 },",,,,,407,1984,60.5,Western Sahara Plague,1984,Western Sahara,64,,,"{ x: new Date(1984, 1, 1), y: 60.5 },"
+1757,54,,"{ x: new Date(1757, 1, 1), y: 54 },",,,,,409,1986,14.8,Oju Yellow Fever Epidemic,1986,"Oju, Nigeria","5,600+",,,"{ x: new Date(1986, 1, 1), y: 14.8 },"
+1758,79.3,,"{ x: new Date(1758, 1, 1), y: 79.3 },",,,,,410,1987,33.9,Mali Yellow Fever Epidemic,1987,Mali,145,,,"{ x: new Date(1987, 1, 1), y: 33.9 },"
+1759,90,,"{ x: new Date(1759, 1, 1), y: 90 },",,,,,414,1991,203.3,Bangladesh Cholera Epidemic,1991,Bangladesh,"8,410–9,432",,,"{ x: new Date(1991, 1, 1), y: 203.3 },"
+1760,104.8,,"{ x: new Date(1760, 1, 1), y: 104.8 },",,,,,417,1994,44.9,Plague In India,1994,India,56,,,"{ x: new Date(1994, 1, 1), y: 44.9 },"
+1761,143.2,,"{ x: new Date(1761, 1, 1), y: 143.2 },",,,,,,,,,,,,,,
+1762,102,,"{ x: new Date(1762, 1, 1), y: 102 },",,,,,,,,,,,,,,
+1763,75.2,,"{ x: new Date(1763, 1, 1), y: 75.2 },",,,,,,,,,,,,,,
+1764,60.7,,"{ x: new Date(1764, 1, 1), y: 60.7 },",,,,,,,,,,,,,,
+1765,34.8,,"{ x: new Date(1765, 1, 1), y: 34.8 },",,,,,,,,,,,,,,
+1766,19,,"{ x: new Date(1766, 1, 1), y: 19 },",,,,,,,,,,,,,,
+1767,63,,"{ x: new Date(1767, 1, 1), y: 63 },",,,,,,,,,,,,,,
+1768,116.3,,"{ x: new Date(1768, 1, 1), y: 116.3 },",,,,,,,,,,,,,,
+1769,176.8,,"{ x: new Date(1769, 1, 1), y: 176.8 },",,,,,,,,,,,,,,
+1770,168,,"{ x: new Date(1770, 1, 1), y: 168 },",,,,,,,,,,,,,,
+1771,136,,"{ x: new Date(1771, 1, 1), y: 136 },",,,,,,,,,,,,,,
+1772,110.8,,"{ x: new Date(1772, 1, 1), y: 110.8 },",,,,,,,,,,,,,,
+1773,58,,"{ x: new Date(1773, 1, 1), y: 58 },",,,,,,,,,,,,,,
+1774,51,,"{ x: new Date(1774, 1, 1), y: 51 },",,,,,,,,,,,,,,
+1775,11.7,,"{ x: new Date(1775, 1, 1), y: 11.7 },",,,,,,,,,,,,,,
+1776,33,,"{ x: new Date(1776, 1, 1), y: 33 },",,,,,,,,,,,,,,
+1777,154.2,,"{ x: new Date(1777, 1, 1), y: 154.2 },",,,,,,,,,,,,,,
+1778,257.3,,"{ x: new Date(1778, 1, 1), y: 257.3 },",,,,,,,,,,,,,,
+1779,209.8,,"{ x: new Date(1779, 1, 1), y: 209.8 },",,,,,,,,,,,,,,
+1780,141.3,,"{ x: new Date(1780, 1, 1), y: 141.3 },",,,,,,,,,,,,,,
+1781,113.5,,"{ x: new Date(1781, 1, 1), y: 113.5 },",,,,,,,,,,,,,,
+1782,64.2,,"{ x: new Date(1782, 1, 1), y: 64.2 },",,,,,,,,,,,,,,
+1783,38,,"{ x: new Date(1783, 1, 1), y: 38 },",,,,,,,,,,,,,,
+1784,17,,"{ x: new Date(1784, 1, 1), y: 17 },",,,,,,,,,,,,,,
+1785,40.2,,"{ x: new Date(1785, 1, 1), y: 40.2 },",,,,,,,,,,,,,,
+1786,138.2,,"{ x: new Date(1786, 1, 1), y: 138.2 },",,,,,,,,,,,,,,
+1787,220,,"{ x: new Date(1787, 1, 1), y: 220 },",,,,,,,,,,,,,,
+1788,218.2,,"{ x: new Date(1788, 1, 1), y: 218.2 },",,,,,,,,,,,,,,
+1789,196.8,,"{ x: new Date(1789, 1, 1), y: 196.8 },",,,,,,,,,,,,,,
+1790,149.8,,"{ x: new Date(1790, 1, 1), y: 149.8 },",,,,,,,,,,,,,,
+1791,111,,"{ x: new Date(1791, 1, 1), y: 111 },",,,,,,,,,,,,,,
+1792,100,,"{ x: new Date(1792, 1, 1), y: 100 },",,,,,,,,,,,,,,
+1793,78.2,,"{ x: new Date(1793, 1, 1), y: 78.2 },",,,,,,,,,,,,,,
+1794,68.3,,"{ x: new Date(1794, 1, 1), y: 68.3 },",,,,,,,,,,,,,,
+1795,35.5,,"{ x: new Date(1795, 1, 1), y: 35.5 },",,,,,,,,,,,,,,
+1796,26.7,,"{ x: new Date(1796, 1, 1), y: 26.7 },",,,,,,,,,,,,,,
+1797,10.7,,"{ x: new Date(1797, 1, 1), y: 10.7 },",,,,,,,,,,,,,,
+1798,6.8,,"{ x: new Date(1798, 1, 1), y: 6.8 },",,,,,,,,,,,,,,
+1799,11.3,,"{ x: new Date(1799, 1, 1), y: 11.3 },",,,,,,,,,,,,,,
+1800,24.2,,"{ x: new Date(1800, 1, 1), y: 24.2 },",,,,,,,,,,,,,,
+1801,56.7,,"{ x: new Date(1801, 1, 1), y: 56.7 },",,,,,,,,,,,,,,
+1802,75,,"{ x: new Date(1802, 1, 1), y: 75 },",,,,,,,,,,,,,,
+1803,71.8,,"{ x: new Date(1803, 1, 1), y: 71.8 },",,,,,,,,,,,,,,
+1804,79.2,,"{ x: new Date(1804, 1, 1), y: 79.2 },",,,,,,,,,,,,,,
+1805,70.3,,"{ x: new Date(1805, 1, 1), y: 70.3 },",,,,,,,,,,,,,,
+1806,46.8,,"{ x: new Date(1806, 1, 1), y: 46.8 },",,,,,,,,,,,,,,
+1807,16.8,,"{ x: new Date(1807, 1, 1), y: 16.8 },",,,,,,,,,,,,,,
+1808,13.5,,"{ x: new Date(1808, 1, 1), y: 13.5 },",,,,,,,,,,,,,,
+1809,4.2,,"{ x: new Date(1809, 1, 1), y: 4.2 },",,,,,,,,,,,,,,
+1810,0,,"{ x: new Date(1810, 1, 1), y: 0 },",,,,,,,,,,,,,,
+1811,2.3,,"{ x: new Date(1811, 1, 1), y: 2.3 },",,,,,,,,,,,,,,
+1812,8.3,,"{ x: new Date(1812, 1, 1), y: 8.3 },",,,,,,,,,,,,,,
+1813,20.3,,"{ x: new Date(1813, 1, 1), y: 20.3 },",,,,,,,,,,,,,,
+1814,23.2,,"{ x: new Date(1814, 1, 1), y: 23.2 },",,,,,,,,,,,,,,
+1815,59,,"{ x: new Date(1815, 1, 1), y: 59 },",,,,,,,,,,,,,,
+1816,76.3,,"{ x: new Date(1816, 1, 1), y: 76.3 },",,,,,,,,,,,,,,
+1817,68.3,,"{ x: new Date(1817, 1, 1), y: 68.3 },",,,,,,,,,,,,,,
+1818,52.9,,"{ x: new Date(1818, 1, 1), y: 52.9 },",,,,,,,,,,,,,,
+1819,38.5,,"{ x: new Date(1819, 1, 1), y: 38.5 },",,,,,,,,,,,,,,
+1820,24.2,,"{ x: new Date(1820, 1, 1), y: 24.2 },",,,,,,,,,,,,,,
+1821,9.2,,"{ x: new Date(1821, 1, 1), y: 9.2 },",,,,,,,,,,,,,,
+1822,6.3,,"{ x: new Date(1822, 1, 1), y: 6.3 },",,,,,,,,,,,,,,
+1823,2.2,,"{ x: new Date(1823, 1, 1), y: 2.2 },",,,,,,,,,,,,,,
+1824,11.4,,"{ x: new Date(1824, 1, 1), y: 11.4 },",,,,,,,,,,,,,,
+1825,28.2,,"{ x: new Date(1825, 1, 1), y: 28.2 },",,,,,,,,,,,,,,
+1826,59.9,,"{ x: new Date(1826, 1, 1), y: 59.9 },",,,,,,,,,,,,,,
+1827,83,,"{ x: new Date(1827, 1, 1), y: 83 },",,,,,,,,,,,,,,
+1828,108.5,,"{ x: new Date(1828, 1, 1), y: 108.5 },",,,,,,,,,,,,,,
+1829,115.2,,"{ x: new Date(1829, 1, 1), y: 115.2 },",,,,,,,,,,,,,,
+1830,117.4,,"{ x: new Date(1830, 1, 1), y: 117.4 },",,,,,,,,,,,,,,
+1831,80.8,,"{ x: new Date(1831, 1, 1), y: 80.8 },",,,,,,,,,,,,,,
+1832,44.3,,"{ x: new Date(1832, 1, 1), y: 44.3 },",,,,,,,,,,,,,,
+1833,13.4,,"{ x: new Date(1833, 1, 1), y: 13.4 },",,,,,,,,,,,,,,
+1834,19.5,,"{ x: new Date(1834, 1, 1), y: 19.5 },",,,,,,,,,,,,,,
+1835,85.8,,"{ x: new Date(1835, 1, 1), y: 85.8 },",,,,,,,,,,,,,,
+1836,192.7,,"{ x: new Date(1836, 1, 1), y: 192.7 },",,,,,,,,,,,,,,
+1837,227.3,,"{ x: new Date(1837, 1, 1), y: 227.3 },",,,,,,,,,,,,,,
+1838,168.7,,"{ x: new Date(1838, 1, 1), y: 168.7 },",,,,,,,,,,,,,,
+1839,143,,"{ x: new Date(1839, 1, 1), y: 143 },",,,,,,,,,,,,,,
+1840,105.5,,"{ x: new Date(1840, 1, 1), y: 105.5 },",,,,,,,,,,,,,,
+1841,63.3,,"{ x: new Date(1841, 1, 1), y: 63.3 },",,,,,,,,,,,,,,
+1842,40.3,,"{ x: new Date(1842, 1, 1), y: 40.3 },",,,,,,,,,,,,,,
+1843,18.1,,"{ x: new Date(1843, 1, 1), y: 18.1 },",,,,,,,,,,,,,,
+1844,25.1,,"{ x: new Date(1844, 1, 1), y: 25.1 },",,,,,,,,,,,,,,
+1845,65.8,,"{ x: new Date(1845, 1, 1), y: 65.8 },",,,,,,,,,,,,,,
+1846,102.7,,"{ x: new Date(1846, 1, 1), y: 102.7 },",,,,,,,,,,,,,,
+1847,166.3,,"{ x: new Date(1847, 1, 1), y: 166.3 },",,,,,,,,,,,,,,
+1848,208.3,,"{ x: new Date(1848, 1, 1), y: 208.3 },",,,,,,,,,,,,,,
+1849,182.5,,"{ x: new Date(1849, 1, 1), y: 182.5 },",,,,,,,,,,,,,,
+1850,126.3,,"{ x: new Date(1850, 1, 1), y: 126.3 },",,,,,,,,,,,,,,
+1851,122,,"{ x: new Date(1851, 1, 1), y: 122 },",,,,,,,,,,,,,,
+1852,102.7,,"{ x: new Date(1852, 1, 1), y: 102.7 },",,,,,,,,,,,,,,
+1853,74.1,,"{ x: new Date(1853, 1, 1), y: 74.1 },",,,,,,,,,,,,,,
+1854,39,,"{ x: new Date(1854, 1, 1), y: 39 },",,,,,,,,,,,,,,
+1855,12.7,,"{ x: new Date(1855, 1, 1), y: 12.7 },",,,,,,,,,,,,,,
+1856,8.2,,"{ x: new Date(1856, 1, 1), y: 8.2 },",,,,,,,,,,,,,,
+1857,43.4,,"{ x: new Date(1857, 1, 1), y: 43.4 },",,,,,,,,,,,,,,
+1858,104.4,,"{ x: new Date(1858, 1, 1), y: 104.4 },",,,,,,,,,,,,,,
+1859,178.3,,"{ x: new Date(1859, 1, 1), y: 178.3 },",,,,,,,,,,,,,,
+1860,182.2,,"{ x: new Date(1860, 1, 1), y: 182.2 },",,,,,,,,,,,,,,
+1861,146.6,,"{ x: new Date(1861, 1, 1), y: 146.6 },",,,,,,,,,,,,,,
+1862,112.1,,"{ x: new Date(1862, 1, 1), y: 112.1 },",,,,,,,,,,,,,,
+1863,83.5,,"{ x: new Date(1863, 1, 1), y: 83.5 },",,,,,,,,,,,,,,
+1864,89.2,,"{ x: new Date(1864, 1, 1), y: 89.2 },",,,,,,,,,,,,,,
+1865,57.8,,"{ x: new Date(1865, 1, 1), y: 57.8 },",,,,,,,,,,,,,,
+1866,30.7,,"{ x: new Date(1866, 1, 1), y: 30.7 },",,,,,,,,,,,,,,
+1867,13.9,,"{ x: new Date(1867, 1, 1), y: 13.9 },",,,,,,,,,,,,,,
+1868,62.8,,"{ x: new Date(1868, 1, 1), y: 62.8 },",,,,,,,,,,,,,,
+1869,123.6,,"{ x: new Date(1869, 1, 1), y: 123.6 },",,,,,,,,,,,,,,
+1870,232,,"{ x: new Date(1870, 1, 1), y: 232 },",,,,,,,,,,,,,,
+1871,185.3,,"{ x: new Date(1871, 1, 1), y: 185.3 },",,,,,,,,,,,,,,
+1872,169.2,,"{ x: new Date(1872, 1, 1), y: 169.2 },",,,,,,,,,,,,,,
+1873,110.1,,"{ x: new Date(1873, 1, 1), y: 110.1 },",,,,,,,,,,,,,,
+1874,74.5,,"{ x: new Date(1874, 1, 1), y: 74.5 },",,,,,,,,,,,,,,
+1875,28.3,,"{ x: new Date(1875, 1, 1), y: 28.3 },",,,,,,,,,,,,,,
+1876,18.9,,"{ x: new Date(1876, 1, 1), y: 18.9 },",,,,,,,,,,,,,,
+1877,20.7,,"{ x: new Date(1877, 1, 1), y: 20.7 },",,,,,,,,,,,,,,
+1878,5.7,,"{ x: new Date(1878, 1, 1), y: 5.7 },",,,,,,,,,,,,,,
+1879,10,,"{ x: new Date(1879, 1, 1), y: 10 },",,,,,,,,,,,,,,
+1880,53.7,,"{ x: new Date(1880, 1, 1), y: 53.7 },",,,,,,,,,,,,,,
+1881,90.5,,"{ x: new Date(1881, 1, 1), y: 90.5 },",,,,,,,,,,,,,,
+1882,99,,"{ x: new Date(1882, 1, 1), y: 99 },",,,,,,,,,,,,,,
+1883,106.1,,"{ x: new Date(1883, 1, 1), y: 106.1 },",,,,,,,,,,,,,,
+1884,105.8,,"{ x: new Date(1884, 1, 1), y: 105.8 },",,,,,,,,,,,,,,
+1885,86.3,,"{ x: new Date(1885, 1, 1), y: 86.3 },",,,,,,,,,,,,,,
+1886,42.4,,"{ x: new Date(1886, 1, 1), y: 42.4 },",,,,,,,,,,,,,,
+1887,21.8,,"{ x: new Date(1887, 1, 1), y: 21.8 },",,,,,,,,,,,,,,
+1888,11.2,,"{ x: new Date(1888, 1, 1), y: 11.2 },",,,,,,,,,,,,,,
+1889,10.4,,"{ x: new Date(1889, 1, 1), y: 10.4 },",,,,,,,,,,,,,,
+1890,11.8,,"{ x: new Date(1890, 1, 1), y: 11.8 },",,,,,,,,,,,,,,
+1891,59.5,,"{ x: new Date(1891, 1, 1), y: 59.5 },",,,,,,,,,,,,,,
+1892,121.7,,"{ x: new Date(1892, 1, 1), y: 121.7 },",,,,,,,,,,,,,,
+1893,142,,"{ x: new Date(1893, 1, 1), y: 142 },",,,,,,,,,,,,,,
+1894,130,,"{ x: new Date(1894, 1, 1), y: 130 },",,,,,,,,,,,,,,
+1895,106.6,,"{ x: new Date(1895, 1, 1), y: 106.6 },",,,,,,,,,,,,,,
+1896,69.4,,"{ x: new Date(1896, 1, 1), y: 69.4 },",,,,,,,,,,,,,,
+1897,43.8,,"{ x: new Date(1897, 1, 1), y: 43.8 },",,,,,,,,,,,,,,
+1898,44.4,,"{ x: new Date(1898, 1, 1), y: 44.4 },",,,,,,,,,,,,,,
+1899,20.2,,"{ x: new Date(1899, 1, 1), y: 20.2 },",,,,,,,,,,,,,,
+1900,15.7,,"{ x: new Date(1900, 1, 1), y: 15.7 },",,,,,,,,,,,,,,
+1901,4.6,,"{ x: new Date(1901, 1, 1), y: 4.6 },",,,,,,,,,,,,,,
+1902,8.5,,"{ x: new Date(1902, 1, 1), y: 8.5 },",,,,,,,,,,,,,,
+1903,40.8,,"{ x: new Date(1903, 1, 1), y: 40.8 },",,,,,,,,,,,,,,
+1904,70.1,,"{ x: new Date(1904, 1, 1), y: 70.1 },",,,,,,,,,,,,,,
+1905,105.5,,"{ x: new Date(1905, 1, 1), y: 105.5 },",,,,,,,,,,,,,,
+1906,90.1,,"{ x: new Date(1906, 1, 1), y: 90.1 },",,,,,,,,,,,,,,
+1907,102.8,,"{ x: new Date(1907, 1, 1), y: 102.8 },",,,,,,,,,,,,,,
+1908,80.9,,"{ x: new Date(1908, 1, 1), y: 80.9 },",,,,,,,,,,,,,,
+1909,73.2,,"{ x: new Date(1909, 1, 1), y: 73.2 },",,,,,,,,,,,,,,
+1910,30.9,,"{ x: new Date(1910, 1, 1), y: 30.9 },",,,,,,,,,,,,,,
+1911,9.5,,"{ x: new Date(1911, 1, 1), y: 9.5 },",,,,,,,,,,,,,,
+1912,6,,"{ x: new Date(1912, 1, 1), y: 6 },",,,,,,,,,,,,,,
+1913,2.4,,"{ x: new Date(1913, 1, 1), y: 2.4 },",,,,,,,,,,,,,,
+1914,16.1,,"{ x: new Date(1914, 1, 1), y: 16.1 },",,,,,,,,,,,,,,
+1915,79,,"{ x: new Date(1915, 1, 1), y: 79 },",,,,,,,,,,,,,,
+1916,95,,"{ x: new Date(1916, 1, 1), y: 95 },",,,,,,,,,,,,,,
+1917,173.6,,"{ x: new Date(1917, 1, 1), y: 173.6 },",,,,,,,,,,,,,,
+1918,134.6,,"{ x: new Date(1918, 1, 1), y: 134.6 },",,,,,,,,,,,,,,
+1919,105.7,,"{ x: new Date(1919, 1, 1), y: 105.7 },",,,,,,,,,,,,,,
+1920,62.7,,"{ x: new Date(1920, 1, 1), y: 62.7 },",,,,,,,,,,,,,,
+1921,43.5,,"{ x: new Date(1921, 1, 1), y: 43.5 },",,,,,,,,,,,,,,
+1922,23.7,,"{ x: new Date(1922, 1, 1), y: 23.7 },",,,,,,,,,,,,,,
+1923,9.7,,"{ x: new Date(1923, 1, 1), y: 9.7 },",,,,,,,,,,,,,,
+1924,27.9,,"{ x: new Date(1924, 1, 1), y: 27.9 },",,,,,,,,,,,,,,
+1925,74,,"{ x: new Date(1925, 1, 1), y: 74 },",,,,,,,,,,,,,,
+1926,106.5,,"{ x: new Date(1926, 1, 1), y: 106.5 },",,,,,,,,,,,,,,
+1927,114.7,,"{ x: new Date(1927, 1, 1), y: 114.7 },",,,,,,,,,,,,,,
+1928,129.7,,"{ x: new Date(1928, 1, 1), y: 129.7 },",,,,,,,,,,,,,,
+1929,108.2,,"{ x: new Date(1929, 1, 1), y: 108.2 },",,,,,,,,,,,,,,
+1930,59.4,,"{ x: new Date(1930, 1, 1), y: 59.4 },",,,,,,,,,,,,,,
+1931,35.1,,"{ x: new Date(1931, 1, 1), y: 35.1 },",,,,,,,,,,,,,,
+1932,18.6,,"{ x: new Date(1932, 1, 1), y: 18.6 },",,,,,,,,,,,,,,
+1933,9.2,,"{ x: new Date(1933, 1, 1), y: 9.2 },",,,,,,,,,,,,,,
+1934,14.6,,"{ x: new Date(1934, 1, 1), y: 14.6 },",,,,,,,,,,,,,,
+1935,60.2,,"{ x: new Date(1935, 1, 1), y: 60.2 },",,,,,,,,,,,,,,
+1936,132.8,,"{ x: new Date(1936, 1, 1), y: 132.8 },",,,,,,,,,,,,,,
+1937,190.6,,"{ x: new Date(1937, 1, 1), y: 190.6 },",,,,,,,,,,,,,,
+1938,182.6,,"{ x: new Date(1938, 1, 1), y: 182.6 },",,,,,,,,,,,,,,
+1939,148,,"{ x: new Date(1939, 1, 1), y: 148 },",,,,,,,,,,,,,,
+1940,113,,"{ x: new Date(1940, 1, 1), y: 113 },",,,,,,,,,,,,,,
+1941,79.2,,"{ x: new Date(1941, 1, 1), y: 79.2 },",,,,,,,,,,,,,,
+1942,50.8,,"{ x: new Date(1942, 1, 1), y: 50.8 },",,,,,,,,,,,,,,
+1943,27.1,,"{ x: new Date(1943, 1, 1), y: 27.1 },",,,,,,,,,,,,,,
+1944,16.1,,"{ x: new Date(1944, 1, 1), y: 16.1 },",,,,,,,,,,,,,,
+1945,55.3,,"{ x: new Date(1945, 1, 1), y: 55.3 },",,,,,,,,,,,,,,
+1946,154.3,,"{ x: new Date(1946, 1, 1), y: 154.3 },",,,,,,,,,,,,,,
+1947,214.7,,"{ x: new Date(1947, 1, 1), y: 214.7 },",,,,,,,,,,,,,,
+1948,193,,"{ x: new Date(1948, 1, 1), y: 193 },",,,,,,,,,,,,,,
+1949,190.7,,"{ x: new Date(1949, 1, 1), y: 190.7 },",,,,,,,,,,,,,,
+1950,118.9,,"{ x: new Date(1950, 1, 1), y: 118.9 },",,,,,,,,,,,,,,
+1951,98.3,,"{ x: new Date(1951, 1, 1), y: 98.3 },",,,,,,,,,,,,,,
+1952,45,,"{ x: new Date(1952, 1, 1), y: 45 },",,,,,,,,,,,,,,
+1953,20.1,,"{ x: new Date(1953, 1, 1), y: 20.1 },",,,,,,,,,,,,,,
+1954,6.6,,"{ x: new Date(1954, 1, 1), y: 6.6 },",,,,,,,,,,,,,,
+1955,54.2,,"{ x: new Date(1955, 1, 1), y: 54.2 },",,,,,,,,,,,,,,
+1956,200.7,,"{ x: new Date(1956, 1, 1), y: 200.7 },",,,,,,,,,,,,,,
+1957,269.3,,"{ x: new Date(1957, 1, 1), y: 269.3 },",,,,,,,,,,,,,,
+1958,261.7,,"{ x: new Date(1958, 1, 1), y: 261.7 },",,,,,,,,,,,,,,
+1959,225.1,,"{ x: new Date(1959, 1, 1), y: 225.1 },",,,,,,,,,,,,,,
+1960,159,,"{ x: new Date(1960, 1, 1), y: 159 },",,,,,,,,,,,,,,
+1961,76.4,,"{ x: new Date(1961, 1, 1), y: 76.4 },",,,,,,,,,,,,,,
+1962,53.4,,"{ x: new Date(1962, 1, 1), y: 53.4 },",,,,,,,,,,,,,,
+1963,39.9,,"{ x: new Date(1963, 1, 1), y: 39.9 },",,,,,,,,,,,,,,
+1964,15,,"{ x: new Date(1964, 1, 1), y: 15 },",,,,,,,,,,,,,,
+1965,22,,"{ x: new Date(1965, 1, 1), y: 22 },",,,,,,,,,,,,,,
+1966,66.8,,"{ x: new Date(1966, 1, 1), y: 66.8 },",,,,,,,,,,,,,,
+1967,132.9,,"{ x: new Date(1967, 1, 1), y: 132.9 },",,,,,,,,,,,,,,
+1968,150,,"{ x: new Date(1968, 1, 1), y: 150 },",,,,,,,,,,,,,,
+1969,149.4,,"{ x: new Date(1969, 1, 1), y: 149.4 },",,,,,,,,,,,,,,
+1970,148,,"{ x: new Date(1970, 1, 1), y: 148 },",,,,,,,,,,,,,,
+1971,94.4,,"{ x: new Date(1971, 1, 1), y: 94.4 },",,,,,,,,,,,,,,
+1972,97.6,,"{ x: new Date(1972, 1, 1), y: 97.6 },",,,,,,,,,,,,,,
+1973,54.1,,"{ x: new Date(1973, 1, 1), y: 54.1 },",,,,,,,,,,,,,,
+1974,49.2,,"{ x: new Date(1974, 1, 1), y: 49.2 },",,,,,,,,,,,,,,
+1975,22.5,,"{ x: new Date(1975, 1, 1), y: 22.5 },",,,,,,,,,,,,,,
+1976,18.4,,"{ x: new Date(1976, 1, 1), y: 18.4 },",,,,,,,,,,,,,,
+1977,39.3,,"{ x: new Date(1977, 1, 1), y: 39.3 },",,,,,,,,,,,,,,
+1978,131,,"{ x: new Date(1978, 1, 1), y: 131 },",,,,,,,,,,,,,,
+1979,220.1,,"{ x: new Date(1979, 1, 1), y: 220.1 },",,,,,,,,,,,,,,
+1980,218.9,,"{ x: new Date(1980, 1, 1), y: 218.9 },",,,,,,,,,,,,,,
+1981,198.9,,"{ x: new Date(1981, 1, 1), y: 198.9 },",,,,,,,,,,,,,,
+1982,162.4,,"{ x: new Date(1982, 1, 1), y: 162.4 },",,,,,,,,,,,,,,
+1983,91,,"{ x: new Date(1983, 1, 1), y: 91 },",,,,,,,,,,,,,,
+1984,60.5,,"{ x: new Date(1984, 1, 1), y: 60.5 },",,,,,,,,,,,,,,
+1985,20.6,,"{ x: new Date(1985, 1, 1), y: 20.6 },",,,,,,,,,,,,,,
+1986,14.8,,"{ x: new Date(1986, 1, 1), y: 14.8 },",,,,,,,,,,,,,,
+1987,33.9,,"{ x: new Date(1987, 1, 1), y: 33.9 },",,,,,,,,,,,,,,
+1988,123,,"{ x: new Date(1988, 1, 1), y: 123 },",,,,,,,,,,,,,,
+1989,211.1,,"{ x: new Date(1989, 1, 1), y: 211.1 },",,,,,,,,,,,,,,
+1990,191.8,,"{ x: new Date(1990, 1, 1), y: 191.8 },",,,,,,,,,,,,,,
+1991,203.3,,"{ x: new Date(1991, 1, 1), y: 203.3 },",,,,,,,,,,,,,,
+1992,133,,"{ x: new Date(1992, 1, 1), y: 133 },",,,,,,,,,,,,,,
+1993,76.1,,"{ x: new Date(1993, 1, 1), y: 76.1 },",,,,,,,,,,,,,,
+1994,44.9,,"{ x: new Date(1994, 1, 1), y: 44.9 },",,,,,,,,,,,,,,
+1995,25.1,,"{ x: new Date(1995, 1, 1), y: 25.1 },",,,,,,,,,,,,,,
+1996,11.6,,"{ x: new Date(1996, 1, 1), y: 11.6 },",,,,,,,,,,,,,,
+1997,28.9,,"{ x: new Date(1997, 1, 1), y: 28.9 },",,,,,,,,,,,,,,
+1998,88.3,,"{ x: new Date(1998, 1, 1), y: 88.3 },",,,,,,,,,,,,,,
+1999,136.3,,"{ x: new Date(1999, 1, 1), y: 136.3 },",,,,,,,,,,,,,,
+2000,173.9,,"{ x: new Date(2000, 1, 1), y: 173.9 },",,,,,,,,,,,,,,
+2001,170.4,,"{ x: new Date(2001, 1, 1), y: 170.4 },",,,,,,,,,,,,,,
+2002,163.6,,"{ x: new Date(2002, 1, 1), y: 163.6 },",,,,,,,,,,,,,,
+2003,99.3,,"{ x: new Date(2003, 1, 1), y: 99.3 },",,,,,,,,,,,,,,
+2004,65.3,,"{ x: new Date(2004, 1, 1), y: 65.3 },",,,,,,,,,,,,,,
+2005,45.8,,"{ x: new Date(2005, 1, 1), y: 45.8 },",,,,,,,,,,,,,,
+2006,24.7,,"{ x: new Date(2006, 1, 1), y: 24.7 },",,,,,,,,,,,,,,
+2007,12.6,,"{ x: new Date(2007, 1, 1), y: 12.6 },",,,,,,,,,,,,,,
+2008,4.2,,"{ x: new Date(2008, 1, 1), y: 4.2 },",,,,,,,,,,,,,,
+2009,4.8,,"{ x: new Date(2009, 1, 1), y: 4.8 },",,,,,,,,,,,,,,
+2010,24.9,,"{ x: new Date(2010, 1, 1), y: 24.9 },",,,,,,,,,,,,,,
+2011,80.8,,"{ x: new Date(2011, 1, 1), y: 80.8 },",,,,,,,,,,,,,,
+2012,84.5,,"{ x: new Date(2012, 1, 1), y: 84.5 },",,,,,,,,,,,,,,
+2013,94,,"{ x: new Date(2013, 1, 1), y: 94 },",,,,,,,,,,,,,,
+2014,113.3,,"{ x: new Date(2014, 1, 1), y: 113.3 },",,,,,,,,,,,,,,
+2015,69.8,,"{ x: new Date(2015, 1, 1), y: 69.8 },",,,,,,,,,,,,,,
+2016,39.8,,"{ x: new Date(2016, 1, 1), y: 39.8 },",,,,,,,,,,,,,,
+2017,21.7,,"{ x: new Date(2017, 1, 1), y: 21.7 },",,,,,,,,,,,,,,
+2018,7,,"{ x: new Date(2018, 1, 1), y: 7 },",,,,,,,,,,,,,,
+2019,3.6,,"{ x: new Date(2019, 1, 1), y: 3.6 },",,,,,,,,,,,,,,
